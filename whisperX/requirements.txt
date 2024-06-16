@@ -1,0 +1,7 @@
+transformers
+accelerate
+datasets[audio]
+uvicorn[standard]
+fastapi
+oss2==2.18.4
+minio==7.2.4
